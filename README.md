@@ -7,25 +7,25 @@ A Power BI dashboard project built using Goodreads data to uncover meaningful re
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="preview/homepage.png" width="800"/>
+  <img src="Preview/homepage.png" width="800"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="preview/bookspage.png" width="800"/>
+  <img src="Preview/bookspage.png" width="800"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="preview/authorspage.png" width="800"/>
+  <img src="Preview/authorspage.png" width="800"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="preview/insights.png" width="800"/>
+  <img src="Preview/insights.png" width="800"/>
 </p>
 
 ---
