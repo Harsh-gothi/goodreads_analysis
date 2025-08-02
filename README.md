@@ -112,9 +112,10 @@ You can download the complete Power BI project — including the full dashboard 
 > - Full `.pbix` file with all visuals and interactivity
 > - Raw datasets (`.csv`, `.parquet`)
 
----
 
 💡 This is ideal for exploring the dashboard with the complete data model and for deeper analysis outside GitHub's 100MB limit.
+
+---
 
 ### 📑 Notes
 
