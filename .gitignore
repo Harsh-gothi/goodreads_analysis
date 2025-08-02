@@ -1,0 +1,4 @@
+/Dataset/goodreads_data_dictionary.csv
+/Dataset/goodreads_reviews.csv
+/Dataset/goodreads_reviews.parquet
+/Dataset/goodreads_works.csv
