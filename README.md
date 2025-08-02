@@ -4,6 +4,33 @@ A Power BI dashboard project built using Goodreads data to uncover meaningful re
 
 ---
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="preview/homepage.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="preview/bookspage.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="preview/authorspage.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="preview/insights.png" width="800"/>
+</p>
+
+---
+
+
 ## 🔹 Goals
 
 The primary goal of this project was to transform static Goodreads data into a dynamic, user-friendly dashboard that promotes reading through data-driven insights. The focus was on tracking key metrics such as:
