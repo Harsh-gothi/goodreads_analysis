@@ -1,0 +1,6 @@
+🔗 Full Files (Available on Google Drive):
+
+- goodreads_reviews.xlsx (1.35 GB)
+- goodreads_reviews.parquet (700 MB)
+- goodreads_works.xlsx (15 MB)
+- goodreads_data_dictionary (3 KB)
